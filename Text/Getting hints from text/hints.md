@@ -1,0 +1,3 @@
+- Possible to look at other info from text like:
+    - Domain names
+    - Telefoon nummers beide lokaal als internationaal 
