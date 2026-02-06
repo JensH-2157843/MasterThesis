@@ -2,12 +2,12 @@ from ultralytics import YOLO
 import glob
 import os
 
-model = YOLO("runs/detect/train3/weights/last.pt")
+model = YOLO("runs/detect/train12/weights/best.pt")
 countries = ["Bahrain", "Ireland", "Norway", "Pakistan", "USA","Brazil","Estonia","Finland","Kazakhstan","Lithuania","Serbia","UAE","Belgium","France","Germany","Hungary","Italy","Netherlands","Poland","Spain","UK"]
 
 for country in countries:
     folder_dir = f'Places/{country}'
-    output_dir = f'results_3L/{country}'
+    output_dir = f'results_12B/{country}'
 
     plates = []
 

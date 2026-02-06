@@ -15,3 +15,7 @@ B) Make it Country specific:
 - Allow each NN to learn specific country hints like local phone numbers, city names, and others...
 - Disadvantage: these hints are mostly gather from geogussr tip boards  
   
+
+Overall model Geo-Clip:
+- Paper: https://arxiv.org/pdf/2309.16020 
+- Github: https://github.com/VicenteVivan/geo-clip 

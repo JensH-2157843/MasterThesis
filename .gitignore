@@ -1,2 +1,7 @@
 /License Plates/LicensePlateDataset
 *.zip
+/License Plates/Countries
+/License Plates/LicensePlateDatasetV2
+/License Plates/Recogniser
+/License Plates/RecogniserV2
+/License Plates/RecogniserV3
